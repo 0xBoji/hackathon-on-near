@@ -2,7 +2,7 @@
 
 Welcome to the Hackathon on NEAR Protocol! 🚀 This event is designed to bring together talented developers, creators, and innovators to explore the endless possibilities of building decentralized applications (dApps) on the NEAR Protocol ecosystem.
 
-![NEAR Protocol Logo](icons/near_logo.png)
+![NEAR Protocol Logo](./near.png)
 
 ## About NEAR Protocol
 
